@@ -1,17 +1,17 @@
-### Olá seja bem-vind@ ao me GitHub 👋
+### Olá seja bem-vind@ ao meu GitHub 👋
 
-Meu nome é Matheus e sou apaixonado por tecnologia. 👨‍💻
+##### Meu nome é Matheus e sou apaixonado por tecnologia. 👨‍💻
 
-Atualmente estou cursando o Inter Frontend Developer Bootcamp na plataforma da [DIO](https://digitalinnovation.one/) cujo foco é desenvolvimento Frontend com React. 🌱⚛️
+##### Atualmente estou cursando o Inter Frontend Developer Bootcamp na plataforma da [DIO](https://digitalinnovation.one/) cujo foco é desenvolvimento Frontend com React. 🌱⚛️
 
-Além disso, estou me formando em Engenharia de Controle e Automação pela UFSM. Com previsão para Fevereiro de 2022. 👨‍🎓
+##### Além disso, estou me formando em Engenharia de Controle e Automação pela UFSM. Com previsão para Fevereiro de 2022. 👨‍🎓
 
-Meu objetivo é me tornar um Engenheiro de Software por isso estou estudando esse Bootcamp. 🤩
+##### Meu objetivo é me tornar um Engenheiro de Software por isso estou estudando esse Bootcamp. 🤩
 
-Entre em contato:
+##### Entre em contato:
 
-- [LinkedIn](https://www.linkedin.com/in/matheusmslima)
-- [Gmail](mailto:matheusmslima@gmail.com)
+##### - [LinkedIn](https://www.linkedin.com/in/matheusmslima)
+##### - [Gmail](mailto:matheusmslima@gmail.com)
 
 
 <!--
