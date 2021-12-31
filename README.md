@@ -1,6 +1,6 @@
 ### Olá seja bem-vind@ ao me GitHub 👋
 
-Meu nome é Matheus e sou apaixonado por tecnologia. 💻🤓
+Meu nome é Matheus e sou apaixonado por tecnologia. 👨‍💻
 
 Atualmente estou cursando o Inter Frontend Developer Bootcamp na plataforma da [DIO](https://digitalinnovation.one/) cujo foco é desenvolvimento Frontend com React. 🌱⚛️
 
