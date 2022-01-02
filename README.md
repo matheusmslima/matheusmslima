@@ -13,7 +13,12 @@
 ##### - [LinkedIn](https://www.linkedin.com/in/matheusmslima)
 ##### - [Gmail](mailto:matheusmslima@gmail.com)
 
-
+<div>
+  <a href="https://github.com/matheusmslima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmslima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmslima&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
 <!--
 **matheusmslima/matheusmslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
