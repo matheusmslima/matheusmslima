@@ -8,8 +8,6 @@ Além disso, estou me formando em Engenharia de Controle e Automação pela UFSM
 
 Meu objetivo é me tornar um Engenheiro de Software e trabalhar no banco Inter por isso estou estudando esse Bootcamp. 🤩
 
----
-
 Entre em contato:
 
 [LinkedIn](https://www.linkedin.com/in/matheusmslima)
@@ -18,10 +16,8 @@ Entre em contato:
 
 ---
 
-<div>
-  <a href="https://github.com/matheusmslima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmslima&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=matheusmslima&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+
   
 <!--
 **matheusmslima/matheusmslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
