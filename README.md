@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Lima</h1>
 <h3 align="center">A passionate Flutter developer.</h3>
 
-- 🔭 I’m currently working on **QuizApp**
+- 🔭 I’m currently working on [**QuizApp**](https://github.com/matheusmslima/flutter-quiz-app)
 
 - 🌱 I’m currently learning **Flutter, Dart, React.JS**
 
