@@ -5,7 +5,7 @@
 
 #
 
-#### Check out my first Flutter app!
+#### Check out my studies!
 
 **1. [Quiz App](https://github.com/matheusmslima/flutter-quiz-app)**
 
