@@ -8,4 +8,5 @@
 #### Check out my first Flutter app!
 
 **1. [Quiz App](https://github.com/matheusmslima/flutter-quiz-app)**
+
 **2. [Vakinha Burguer App](https://github.com/matheusmslima/vakinha_burguer_mobile)**
