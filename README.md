@@ -5,7 +5,7 @@
 
 #
 
-#### Check out my studies!
+#### Checkout my projects!
 
 **1. [Quiz App](https://github.com/matheusmslima/flutter-quiz-app)**
 
