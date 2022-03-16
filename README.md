@@ -7,6 +7,8 @@
 
 #### Checkout my projects!
 
-**1. [Quiz App](https://github.com/matheusmslima/flutter-quiz-app)**
+**1. [Vakinha Burguer App](https://github.com/matheusmslima/vakinha_burguer_mobile)**
 
-**2. [Vakinha Burguer App](https://github.com/matheusmslima/vakinha_burguer_mobile)**
+**2. [Quiz App](https://github.com/matheusmslima/flutter-quiz-app)**
+
+**3. [ListView.builder GetX App](https://github.com/matheusmslima/list_view_builder_getx)**
