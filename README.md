@@ -12,3 +12,5 @@
 **2. [Quiz App](https://github.com/matheusmslima/flutter-quiz-app)**
 
 **3. [ListView.builder GetX App](https://github.com/matheusmslima/list_view_builder_getx)**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmslima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
