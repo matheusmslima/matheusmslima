@@ -2,4 +2,4 @@
 
 Welcome to my GitHub profile 👨‍💻
 
-I'm currently a Software Engineer Consultant for SAAB working on the development of the Mission Trainer Simulator.
+I'm currently studying Game Development with Godot.
