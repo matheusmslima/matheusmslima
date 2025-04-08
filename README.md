@@ -2,4 +2,4 @@
 
 Welcome to my GitHub profile 👨‍💻
 
-I'm currently studying Game Development with Godot.
+I'm currently studying NodeJs, Typescript, TDD, DDD, Clean Architecture and SOLID.
